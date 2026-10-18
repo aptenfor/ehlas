@@ -1,0 +1,4 @@
+ehlas.exe
+*.o
+ehlas.layout
+Makefile.win
